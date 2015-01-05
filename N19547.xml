@@ -113,15 +113,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:025490_0000_0FCD48959BDCB4A8"/>
-            <pb facs="tcp:025490_0001_0FCCE5732317B420"/>
+            <pb facs="unknown:025490_0000_0FCD48959BDCB4A8"/>
+            <pb facs="unknown:025490_0001_0FCCE5732317B420"/>
             <p>TRAVELS THROUGH AMERICA. A POEM.</p>
             <p>By MICHAEL FORREST.</p>
             <p>
                <hi>PHILADELPHIA:</hi> PRINTED BY <hi>JOHNSTON &amp; JUSTICE,</hi> AT FRANK<g ref="char:EOLhyphen"/>LIN'S HEAD, NO. 41, CHESNUT-STREET. M.DCC.XCIII.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:025490_0002_0FCCE57465AAB728"/>
+            <pb facs="unknown:025490_0002_0FCCE57465AAB728"/>
             <head>PREFACE.</head>
             <p>WHEN I began the following Poem, my in<g ref="char:EOLhyphen"/>tention was only to commemorate (for my own private ſatisfaction) the different ſcenes and places which I beheld in my travels through America; but, after finiſhing it, I began to think it might be entertaining to the public; and at the requeſt of ſome gentlemen to whom I have ſhewn the manuſcript, have agreed to publiſh it. With reſpect to the poem in general, I ſhall on<g ref="char:EOLhyphen"/>ly inform the reader, that I have frequently uſed the <hi>preſent tenſe</hi> inſtead of the <hi>paſt,</hi> in order to keep the action the more alive. The verſes in<g ref="char:EOLhyphen"/>troduced into the latter end of the poem, and the ſeparate pieces added to it, were inſerted in hopes of rendering the whole the more entertaining.</p>
             <closer>
@@ -129,14 +129,14 @@
             </closer>
          </div>
          <div type="description_of_contents">
-            <pb facs="tcp:025490_0003_0FCCE575E470C410"/>
+            <pb facs="unknown:025490_0003_0FCCE575E470C410"/>
             <head>THE CONTENTS.</head>
             <p>VOYAGE from Ireland to Newfoundland—De<g ref="char:EOLhyphen"/>ſcription of Newfoundland—Voyage from New<g ref="char:EOLhyphen"/>foundland to Boſton—Addreſs to Columbia to the Boſ<g ref="char:EOLhyphen"/>tonians, and to Bunker's Hill—Voyage from Boſton to Baltimore—Obſervations on paſſing <hi>Brandiwine</hi> going to Philadelphia—A view of a youth ſwimming in the river Schuylkill and ſporting on its margin—Deſcrip<g ref="char:EOLhyphen"/>tion of Philadelphia—A fraternal ſcene—A moral de<g ref="char:EOLhyphen"/>duced from the fraternal ſcene—Battle of the kegs in Philadelphia—Sailing from Philadelphia to Porden<g ref="char:EOLhyphen"/>town in a Stage Boat—Philoſophical contemplation with reſpect to human happineſs—View of Burling<g ref="char:EOLhyphen"/>ton and Briſtol—A delicate view of a young lady bath<g ref="char:EOLhyphen"/>ing in a ſylvan pool—Rolanda in the grove, a rural ſcene—Moral from the diſtreſs of Rolanda—Addreſs to Rolanda's inconſtant ſwain—The approach of Win<g ref="char:EOLhyphen"/>ter—A Winter ſtorm—The approach of Spring—A view of the ſolar ſyſtem on a ſine ſummer night—Ru<g ref="char:EOLhyphen"/>ral obſervations—Battle of Trenton—Praiſe of Gene<g ref="char:EOLhyphen"/>ral Waſhington—Daphne and Strephon, a rural ſcene —Voyage to Charleſton, South Carolina—Deſcription of Charleſton and the ladies of Carolina—Verſes to a Carolina lady—Siege of Charleſton—Addreſs to For<g ref="char:EOLhyphen"/>time—Verſes addreſſed to a young Gentleman at the Charleſton College-Academy—Aſpecimen of unlimit<g ref="char:EOLhyphen"/>ed ſublime poetry—Man ſhall be free, a new ſong.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:025490_0004_0FCCE584DC39E420"/>
+            <pb facs="unknown:025490_0004_0FCCE584DC39E420"/>
             <head>Travels Through America.</head>
             <lg>
                <l>MY native home, and dear companions all,</l>
@@ -161,7 +161,7 @@
             <lg>
                <l>Now <hi>Aeolus</hi> ceaſes—<hi>Neptune</hi> rules alone—</l>
                <l>The ſky is clear—the ſea is all in foam;</l>
-               <pb n="8" facs="tcp:025490_0005_0FCCE5865C34EAB0"/>
+               <pb n="8" facs="unknown:025490_0005_0FCCE5865C34EAB0"/>
                <l>Boreas ſhuts his magazine of ſtorms;</l>
                <l>The glaſs goes round, and we ſing <hi>Wars-alarms.</hi>
                </l>
@@ -197,7 +197,7 @@
                      <hi>Our Convoy.</hi>
                   </note> now fir'd a ſignal gun,</l>
                <l>And ſteer'd due ſouth 'till ſetting of the ſun,</l>
-               <pb n="9" facs="tcp:025490_0006_0FCD48314B4F62C0"/>
+               <pb n="9" facs="unknown:025490_0006_0FCD48314B4F62C0"/>
                <l>When from aloft a ſailor gladly ſpy'd</l>
                <l>The diſtant ſhore, and <hi>"Land oho!"</hi> he cry'd.</l>
             </lg>
@@ -230,7 +230,7 @@
                <l>Once I myſelf beheld a diſmal ſight,</l>
                <l>A man found frozen, in the dead of night,</l>
                <l>Within a ſmall mile of his native home,</l>
-               <pb n="10" facs="tcp:025490_0007_0FCD4832D19CCDE8"/>
+               <pb n="10" facs="unknown:025490_0007_0FCD4832D19CCDE8"/>
                <l>On the white path extended ſtiff alone!</l>
                <l>A place of worſhip here is ſcarcely found,</l>
                <l>But W—s, Gin and Grog, ſwarm the country round.</l>
@@ -263,7 +263,7 @@
                <l>We now prepare to meet our fatal end!</l>
                <l>But lo! ſhe rights, and ſtems the ſtormy wave!</l>
                <l>And now, once more, we hope our lives to ſave.</l>
-               <pb n="11" facs="tcp:025490_0008_0FCD48341C72B700"/>
+               <pb n="11" facs="unknown:025490_0008_0FCD48341C72B700"/>
                <l>Now Boreas, with a briſk and pleaſant gale,</l>
                <l>Triumphant rides, and fills each ſpreading ſail;</l>
                <l>The waves ſubſide—we with mutual ardour,</l>
@@ -297,7 +297,7 @@
                <l>Which, they well knew, their liberty would choke.</l>
             </lg>
             <lg>
-               <pb n="12" facs="tcp:025490_0009_0FCD48359C772F88"/>
+               <pb n="12" facs="unknown:025490_0009_0FCD48359C772F88"/>
                <l>HAIL BUNKER's HILL! thou once a bloody plain,</l>
                <l>Poſterity will ſing each hero's fame,</l>
                <l>Who on thee bled, and died full of gore;</l>
@@ -330,7 +330,7 @@
                   <hi>An Era new! the Britiſh troops have fled</hi>—</l>
                <l>Now up the Cheſepeak we quickly ſail'd,</l>
                <l>And at Annapolis ourſelves regal'd;</l>
-               <pb n="13" facs="tcp:025490_0010_0FCD4838E97670E0"/>
+               <pb n="13" facs="unknown:025490_0010_0FCD4838E97670E0"/>
                <l>The rural proſpects thence along the ſhore,</l>
                <l>Are highly pleaſing up to Baltimore,</l>
                <l>Which town improves like Rome in days of yore.</l>
@@ -367,7 +367,7 @@
             <lg>
                <l>I now behold Schuylkill's ſilver ſtream,</l>
                <l>Whoſe verdant banks would grace a poet's theme;</l>
-               <pb n="14" facs="tcp:025490_0011_0FCD483A2A05D000"/>
+               <pb n="14" facs="unknown:025490_0011_0FCD483A2A05D000"/>
                <l>Here the brave youth, to cool his ardent blood,</l>
                <l>Plunges headlong into the circling flood;</l>
                <l>With luſty ſinews, thence to yonder ſhore,</l>
@@ -400,7 +400,7 @@
                <l>Which joins harmoniouſly their warbling theme.</l>
             </lg>
             <lg>
-               <pb n="15" facs="tcp:025490_0012_0FCD483BB26B2290"/>
+               <pb n="15" facs="unknown:025490_0012_0FCD483BB26B2290"/>
                <l>Hail PHILADELPHIA! I now behold</l>
                <l>Thy regularity, as I've been told;</l>
                <l>But more majeſtical thou doſt appear,</l>
@@ -434,7 +434,7 @@
                <l>That Philadelphia moſt will pleaſe your mind—</l>
             </lg>
             <lg>
-               <pb n="16" facs="tcp:025490_0013_0FCD483D1D7A5B30"/>
+               <pb n="16" facs="unknown:025490_0013_0FCD483D1D7A5B30"/>
                <l>Here I reſided more than half a year,</l>
                <l>During which time I've ſhed many a tear,</l>
                <l>For an only brother, who, as I've heard,</l>
@@ -463,7 +463,7 @@
                <l>I fear'd ſome phantom now deceiv'd my ſight;</l>
                <l>Fond nature ceas'd—and now, with language meek,</l>
                <l>And trembling voice, I thus to him did ſpeak:</l>
-               <pb n="17" facs="tcp:025490_0014_0FCD48421A8ED018"/>
+               <pb n="17" facs="unknown:025490_0014_0FCD48421A8ED018"/>
                <l>Do I dream, or did the heav'nly powers,</l>
                <l>To 'bate my grief, reſtore thy vital pow'rs?</l>
                <l>My deareſt brother! art thou ſtill alive?</l>
@@ -494,7 +494,7 @@
                <l>Thy race will end, and thy immortal ſoul,</l>
                <l>To realms unknown to human paſſions fly,</l>
                <l>Where it will never, never, never die!—</l>
-               <pb n="18" facs="tcp:025490_0015_0FCD48431F19BB20"/>
+               <pb n="18" facs="unknown:025490_0015_0FCD48431F19BB20"/>
                <l>O! how important is this truth divine!</l>
                <l>O, may it ring thro' ev'ry earthly clime!</l>
                <l>May all our actions ever pleaſe the Lord;</l>
@@ -529,7 +529,7 @@
                <l>Whoſe groat a day will ſearcely buy them porridge!</l>
             </lg>
             <lg>
-               <pb n="19" facs="tcp:025490_0016_0FCD4847DC856FF8"/>
+               <pb n="19" facs="unknown:025490_0016_0FCD4847DC856FF8"/>
                <l>I now did leave this city of renown,</l>
                <l>And in a ſtage-boat ſail'd for Bordentown;</l>
                <l>The wind was fair—paſſengers all merry;</l>
@@ -560,7 +560,7 @@
                <l>They fill their happy circle mark'd by heav'n;</l>
                <l>Strangers to all the buſy ſcenes of life,</l>
                <l>To liberal arts and domeſtic ſtrife;</l>
-               <pb n="20" facs="tcp:025490_0017_0FCD484994A1F3B0"/>
+               <pb n="20" facs="unknown:025490_0017_0FCD484994A1F3B0"/>
                <l>And more contented in their narrow ſphere,</l>
                <l>Than the rich monarch is in his, or peer.</l>
                <l>What tho' the cauſe of things to them 's unknown,</l>
@@ -595,7 +595,7 @@
                </l>
             </lg>
             <lg>
-               <pb n="21" facs="tcp:025490_0018_0FCD484AA22AA888"/>
+               <pb n="21" facs="unknown:025490_0018_0FCD484AA22AA888"/>
                <l>What cares yon ſwain if Mars were headlong hurl'd</l>
                <l>Into the ſun, or 'gainſt ſome other world?</l>
                <l>Or if great Jupiter was whirl'd and toſs'd</l>
@@ -626,7 +626,7 @@
                <l>"The leſs man knows the greater his content,"</l>
                <l>When Burlington appeared full in ſight,</l>
                <l>A proſpect which I view'd with great delight.</l>
-               <pb n="22" facs="tcp:025490_0019_0FCD484D1725BC48"/>
+               <pb n="22" facs="unknown:025490_0019_0FCD484D1725BC48"/>
                <l>My moſe would fain remain here pretty long,</l>
                <l>It doth afford ſuch ſubjects for a ſong:</l>
                <l>The gliding ſtream, and the ſequeſter'd grove;</l>
@@ -658,7 +658,7 @@
                <l>This language was diſpleaſing to the fair;</l>
                <l>For we all know that ladies cannot bear</l>
                <l>To hear a ſailor madly curſe and ſwear.</l>
-               <pb n="23" facs="tcp:025490_0020_0FCD484E640E4538"/>
+               <pb n="23" facs="unknown:025490_0020_0FCD484E640E4538"/>
                <l>They call him wicked, vulgar, and ſo forth,</l>
                <l>Becauſe they know not his intrinſic worth.</l>
                <l>Oh, erring reaſon, mix'd with erring pride,</l>
@@ -694,7 +694,7 @@
                   </gap>ces ſidelong view'd the ſhore.</l>
                <l>She now arrived at her ſylvan pool,</l>
                <l>And quick diſrob'd, her lovely limbs to cool.</l>
-               <pb n="24" facs="tcp:025490_0021_0FCD4852C1D64E70"/>
+               <pb n="24" facs="unknown:025490_0021_0FCD4852C1D64E70"/>
                <l>Meanwhile ſhe fearful glances caſt around,</l>
                <l>And trembling view'd th' inverted blue profound.</l>
                <l>But when the falling lawn expos'd the fair,</l>
@@ -725,7 +725,7 @@
                <l>I now cou'd go where e'er I had a mind.</l>
                <l>Night coming on, I left this beauteous hill.</l>
                <l>And bade Vallonia name this purling rill,</l>
-               <pb n="25" facs="tcp:025490_0022_0FCD485460AE1E90"/>
+               <pb n="25" facs="unknown:025490_0022_0FCD485460AE1E90"/>
                <l>The haunt of rural maids—and that ere long,</l>
                <l>In yonder grove, once more, ſhe'd hear my ſong.</l>
             </lg>
@@ -758,7 +758,7 @@
                <l>But Oh! my fair, this milk-white hand to kiſs.</l>
                <l>"Alas!" ſhe ſaid, and trembled as ſhe ſpoke,</l>
                <l>"Some other perſon beſt would ſuit your joke:</l>
-               <pb n="26" facs="tcp:025490_0023_0FCD4855DE8746F0"/>
+               <pb n="26" facs="unknown:025490_0023_0FCD4855DE8746F0"/>
                <l>Too late, alas! too late, I've learn'd to know,</l>
                <l>By ſad experience, what young men can do."—</l>
                <l>Now ſobbing ſighs prevented her to ſpeak;</l>
@@ -793,7 +793,7 @@
                <l>And there ſhe ſang the ſtory of her woe—</l>
                <l>Nor turtle dove after loſing its mate,</l>
                <l>Nor woodland thruſh, bemoaning her ſad fate,</l>
-               <pb n="27" facs="tcp:025490_0024_0FCD485919262410"/>
+               <pb n="27" facs="unknown:025490_0024_0FCD485919262410"/>
                <l>When the rude ſchool-boy robb'd her of her young,</l>
                <l>A more pathetic ſtrain had ever ſung:</l>
                <l>The tuneful ſongſters jointly ſing her tale,</l>
@@ -826,7 +826,7 @@
                <l>Doſt thou not know there is a pow'r above,</l>
                <l>Who may for vengeance throw the fatal ſhaft,</l>
                <l>And in a moment thee to JUDGMENT waft?</l>
-               <pb n="28" facs="tcp:025490_0025_0FCD485AD180F118"/>
+               <pb n="28" facs="unknown:025490_0025_0FCD485AD180F118"/>
                <l>Oh! think how awful to be headlong hurl'd,</l>
                <l>From th' imperial throne, to the nether world;</l>
                <l>With flaming vengeance, mid the dread abyſs,</l>
@@ -861,7 +861,7 @@
             <lg>
                <l>Now in the north, I ſaw a tempeſt riſe,</l>
                <l>With threat'ning aſpect, grumbling thro' the ſkies;</l>
-               <pb n="29" facs="tcp:025490_0026_0FCD485BE1A213B0"/>
+               <pb n="29" facs="unknown:025490_0026_0FCD485BE1A213B0"/>
                <l>Still op'ning wider, and diſgorging fire,</l>
                <l>With hideous roar, and aſpect yet more dire;</l>
                <l>The trembling cattle quick for ſhelter ran,</l>
@@ -892,7 +892,7 @@
                <l>Whoſe wiſdom thro' his various works doth ſhine;</l>
                <l>For, even now, when winter's piercing cold,</l>
                <l>Makes nature ſhrink to'rds her primeval mould,</l>
-               <pb n="30" facs="tcp:025490_0027_0FCD485D5E5BE960"/>
+               <pb n="30" facs="unknown:025490_0027_0FCD485D5E5BE960"/>
                <l>A renovating pow'r runs thro' the whole,</l>
                <l>From Cancer's claws, to the frore arctic pole:</l>
                <l>The ſtorms of winter ſhortly will be o'er,</l>
@@ -930,7 +930,7 @@
                <l>And purling ſtream, loud-ſinging to his drove.</l>
                <l>All nature ſmiles with us in northern clime,</l>
                <l>While all decays on t'other ſide the line;</l>
-               <pb n="31" facs="tcp:025490_0028_0FCD485F9C9F3D70"/>
+               <pb n="31" facs="unknown:025490_0028_0FCD485F9C9F3D70"/>
                <l>So wills the Lord, whoſe all-directing hand,</l>
                <l>Rolls worlds and ſeaſons round at his command!</l>
             </lg>
@@ -965,7 +965,7 @@
                <l>Nay, what is more, annihilate the whole!)</l>
                <l>Great <hi>Jupiter,</hi> juſt riſing in the Eaſt,</l>
                <l>Whoſe body doth twelve hundred times at leaſt,</l>
-               <pb n="32" facs="tcp:025490_0029_0FCD486274B76838"/>
+               <pb n="32" facs="unknown:025490_0029_0FCD486274B76838"/>
                <l>In magnitude, exceed this flying ball,</l>
                <l>Which we inhabit and the WORLD do call;</l>
                <l>But when compar'd with <hi>that,</hi> how very ſmall!</l>
@@ -998,7 +998,7 @@
                <l>Which, tho' ſo large, from Earth we ſcarcely ſee!</l>
                <l>Five moons in order round his body dance,</l>
                <l>As if to guard him 'gainſt the quick advance</l>
-               <pb n="33" facs="tcp:025490_0030_0FCD4863DB0CE188"/>
+               <pb n="33" facs="unknown:025490_0030_0FCD4863DB0CE188"/>
                <l>Of blazing comets, in their full career,</l>
                <l>Which elſe, perchance, wou'd cruſh that noble ſphere.</l>
                <l>Theſe moons, on him, reflect the rays of light.</l>
@@ -1031,7 +1031,7 @@
                <l>Approach not therefore e'en the milky-way.</l>
                <l>Obeying quick, my muſe on ſpeedy wing,</l>
                <l>Flies headlong down, once more on Earth to ſing.</l>
-               <pb n="34" facs="tcp:025490_0031_0FCD4864F5D8B6B8"/>
+               <pb n="34" facs="unknown:025490_0031_0FCD4864F5D8B6B8"/>
                <l>Ye verdant ſcenes, well-pleas'd I quit the ſkies,</l>
                <l>And, 'midſt you rove, to eaſe my wand'ring eyes,</l>
                <l>With you I find more happineſs by far,</l>
@@ -1067,7 +1067,7 @@
                </l>
                <l>Fearleſs and brave, with martial ſounds advance,</l>
                <l>While trembling Heſſians run, a crazy dance,</l>
-               <pb n="35" facs="tcp:025490_0032_0FCD4869845102D0"/>
+               <pb n="35" facs="unknown:025490_0032_0FCD4869845102D0"/>
                <l>To ſeek for refuge, howling thro' the town,</l>
                <l>Cloſely purſu'd by freemen of renown.</l>
                <l>Into ſteep ſellers, ovens, and hogſties,</l>
@@ -1099,7 +1099,7 @@
                <l>Beyond the reach of each dull-creeping rhyme;</l>
                <l>From high Olympus, let the gods deſcend,</l>
                <l>And to this poet their aſſiſtance lend;</l>
-               <pb n="36" facs="tcp:025490_0033_0FCD486AF4E1B070"/>
+               <pb n="36" facs="unknown:025490_0033_0FCD486AF4E1B070"/>
                <l>While he, in ſtrains heroic, ſings the fame</l>
                <l>Of <hi>Waſhington,</hi> and gilds his noble name.</l>
                <l>O, let the ſacred nine their aid diffuſe,</l>
@@ -1129,7 +1129,7 @@
                <l>His feeling heart and ſympathetic ſoul;</l>
                <l>His love of <hi>Freedom,</hi> and his martial ſkill;</l>
                <l>His pride to conquer, and diſlike to kill;</l>
-               <pb n="37" facs="tcp:025490_0034_0FCD486C5C05E788"/>
+               <pb n="37" facs="unknown:025490_0034_0FCD486C5C05E788"/>
                <l>His perſeverance in his country's cauſe,</l>
                <l>To baniſh tyrants and deſpotic laws;</l>
                <l>And, in a word, his patriotic zeal</l>
@@ -1161,7 +1161,7 @@
                <l>The mournful tale, what late to me befel—</l>
                <l>But, do not ſtartle at the tragic ſound,</l>
                <l>Nor let my tears your manly ſenſe aſtound—</l>
-               <pb n="38" facs="tcp:025490_0035_0FCD486FB21722A8"/>
+               <pb n="38" facs="unknown:025490_0035_0FCD486FB21722A8"/>
                <l>Laſt night as we, well pleas'd, did walk along</l>
                <l>This verdant lawn, and ſang a mutual ſoug,</l>
                <l>Our voice was heard by ſome deſigning clown,</l>
@@ -1192,7 +1192,7 @@
                <l>Say, does our future happineſs depend</l>
                <l>On nuptial bands which nought but death can rend?</l>
                <l>If ſo, let Hymen, ere th'approach of day,</l>
-               <pb n="39" facs="tcp:025490_0036_0FCD487162AF7888"/>
+               <pb n="39" facs="unknown:025490_0036_0FCD487162AF7888"/>
                <l>With torches bright, thro' the high milky-way</l>
                <l>Deſcend, and wave his ever-binding wand</l>
                <l>O'er both our heads and tie the nuptial band:</l>
@@ -1224,7 +1224,7 @@
                <l>Are ſnatch'd from father, brother, ſiſter, wife!</l>
                <l>How many orphan children here are left,</l>
                <l>By cruel death, of ev'ry friend bereft!—</l>
-               <pb n="40" facs="tcp:025490_0037_0FCD48726DD92EC0"/>
+               <pb n="40" facs="unknown:025490_0037_0FCD48726DD92EC0"/>
                <l>But lo, I ſee a ſuperſtructure riſe,</l>
                <l>Magnificently grand it meets the ſkies;</l>
                <l>An aſylum for the diſtreſſed young,</l>
@@ -1260,7 +1260,7 @@
                <head>I.</head>
                <l>Begin my mournful muſe, begin and ſing,</l>
                <l>Till plaintive murmurs echo through the grove;</l>
-               <pb n="41" facs="tcp:025490_0038_0FCD487545F87140"/>
+               <pb n="41" facs="unknown:025490_0038_0FCD487545F87140"/>
                <l>Let hills and dales with theſe ſad numbers ring.</l>
                <l>
                   <hi>Ah! wo is me who cannot ceaſe to love!</hi>
@@ -1305,7 +1305,7 @@
                <head>VII.</head>
                <l>In vain I try my matchleſs love to tame,</l>
                <l>Or ſeek for pleaſures with another fair:</l>
-               <pb n="42" facs="tcp:025490_0039_0FCD4876249AE150"/>
+               <pb n="42" facs="unknown:025490_0039_0FCD4876249AE150"/>
                <l>In vain, alas! to check my growing flame,</l>
                <l>Or ſtop the headlong torrent of deſpair!</l>
             </lg>
@@ -1356,7 +1356,7 @@
                <l>Heroic <hi>Lincoln</hi>
                   <note place="bottom">§ <hi>The American General.</hi>
                   </note> would not deign to yield,</l>
-               <pb n="43" facs="tcp:025490_0040_0FCD487860687E58"/>
+               <pb n="43" facs="unknown:025490_0040_0FCD487860687E58"/>
                <l>But bravely ſtrove to force them from the field:</l>
                <l>His cannons pour'd their roaring vengeance out,</l>
                <l>On Clinton's troops, from each half-man'd redoubt.</l>
@@ -1386,7 +1386,7 @@
                <l>The fond embraces of a loving wife?</l>
                <l>Why doom'd to paſs the prime of life alone,</l>
                <l>Till all the joys of youthful days are flown?</l>
-               <pb n="44" facs="tcp:025490_0041_0FCD487B8B5AA1A8"/>
+               <pb n="44" facs="unknown:025490_0041_0FCD487B8B5AA1A8"/>
                <l>The beaſt that proudly treads the deſert ground,</l>
                <l>And all thoſe creatures which we ſee around,</l>
                <l>Follow Nature with unremitted ſway,</l>
@@ -1429,7 +1429,7 @@
             </lg>
          </div>
          <div type="poem">
-            <pb n="45" facs="tcp:025490_0042_0FCD487CF4803F20"/>
+            <pb n="45" facs="unknown:025490_0042_0FCD487CF4803F20"/>
             <head>A SPECIMEN OF UNLIMITED SUBLIME POETRY.</head>
             <lg>
                <l>With man my ſtrain begins,</l>
@@ -1459,7 +1459,7 @@
                <l>With borrow'd light,</l>
                <l>Slowly moving in her airy courſe,</l>
                <l>Gibbous I view below!</l>
-               <pb n="46" facs="tcp:025490_0043_0FCD4881C1DBE038"/>
+               <pb n="46" facs="unknown:025490_0043_0FCD4881C1DBE038"/>
                <l>Farther ſtill,</l>
                <l>On imagination's airy wing I ſoar.</l>
                <l>I now behold the little earth,</l>
@@ -1489,7 +1489,7 @@
                <l>Millions of miles I've left behind,</l>
                <l>In my aerial flight!</l>
                <l>Still new ſyſtems open to my view,</l>
-               <pb n="47" facs="tcp:025490_0044_0FCD4882EF9EC008"/>
+               <pb n="47" facs="unknown:025490_0044_0FCD4882EF9EC008"/>
                <l>And thouſands diſappear!</l>
                <l>Meanwhile I fly as ſwift as thought can ride,</l>
                <l>Now ſinking low,</l>
@@ -1523,7 +1523,7 @@
                <l>Might pierce the vaſt abyſs,</l>
                <l>Till time ſhould be no more,</l>
                <l>And never reach its bounds!'—</l>
-               <pb n="48" facs="tcp:025490_0045_0FCD488466FE3550"/>
+               <pb n="48" facs="unknown:025490_0045_0FCD488466FE3550"/>
                <l>This aſtounds my ſenſes!</l>
                <l>Where am I?—Whence came I?</l>
                <l>I'm loſt in infinite perfection,</l>
@@ -1556,7 +1556,7 @@
                <l>Nor would ſhe then reſt ſatisfied;</l>
                <l>The <hi>cauſe</hi> that made them ſpring,</l>
                <l>And gave them motion,</l>
-               <pb n="49" facs="tcp:025490_0046_0FCD488605D2D840"/>
+               <pb n="49" facs="unknown:025490_0046_0FCD488605D2D840"/>
                <l>Next ſhe fain would know;</l>
                <l>And how this <hi>cauſe,</hi> eternal and alone,</l>
                <l>Could <hi>be</hi> without <hi>beginning!</hi>
@@ -1593,7 +1593,7 @@
             </lg>
          </div>
          <div type="poem">
-            <pb n="50" facs="tcp:025490_0047_0FCD488783015538"/>
+            <pb n="50" facs="unknown:025490_0047_0FCD488783015538"/>
             <head>Man ſhall be Free.</head>
             <head type="sub">A NEW SONG.</head>
             <opener>
